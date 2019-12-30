@@ -1,0 +1,3 @@
+([('MyBirthday',
+   '/Users/hayounlee/PycharmProjects/MyBirthday/dist/MyBirthday',
+   'EXECUTABLE')],)
